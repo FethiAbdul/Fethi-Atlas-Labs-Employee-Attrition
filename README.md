@@ -124,4 +124,5 @@ COUNTD([Employee ID])
 
 # Conclusion
 
-This analysis highlights key drivers of attrition at Atlas Labs, including seniority, travel, and education level. By addressing these factors, the company can improve employee retention and foster a more stable and satisfied workforce.
+This analysis highlights key drivers of attrition at Atlas Labs, including seniority, travel, and education level.
+By addressing these factors, the company can improve employee retention and foster a more stable and satisfied workforce.
