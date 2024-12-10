@@ -64,7 +64,7 @@ What are the key factors driving employee attrition at Atlas Labs, and how can w
 
 Several calculated fields were created in Tableau to derive key insights and support the analysis:
 
-```plaintext
+
 ### 1. Age Group
 IF [Age] < 20 THEN "Under 20"
 ELSEIF [Age] >= 20 AND [Age] <= 29 THEN "20–29"
